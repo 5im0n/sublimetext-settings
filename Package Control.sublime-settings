@@ -14,10 +14,14 @@
 		"LESS",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"Random Everything",
 		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Brogrammer",
 		"Theme - Glacier"
 	]
 }
