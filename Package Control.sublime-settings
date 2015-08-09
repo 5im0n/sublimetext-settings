@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"Alignment",
 		"AngularInject",
 		"BracketHighlighter",
@@ -14,6 +15,7 @@
 		"LESS",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Material Color Scheme",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",

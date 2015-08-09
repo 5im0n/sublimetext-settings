@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material-Theme (SL).tmTheme",
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"copy_with_empty_selection": false,
 	"folder_exclude_patterns":
 	[
@@ -14,7 +14,8 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"1337 Color Scheme"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
